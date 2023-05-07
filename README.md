@@ -1,4 +1,4 @@
-### Olá, sou o Guylherme Lima👋
+<code>### Olá, sou o Guylherme Lima👋</code>
 
 
 ![GuyLima GitHub stats](https://github-readme-stats.vercel.app/api?username=GuyLima&show_icons=true&theme=radical)
